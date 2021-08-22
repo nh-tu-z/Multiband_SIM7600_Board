@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP2-1
+Removed Pin From Net: NetName=NetJP2_2 Pin=JP2-2
+Removed Pin From Net: NetName=NetJP2_3 Pin=JP2-3
+Removed Pin From Net: NetName=NetJP2_4 Pin=JP2-4
+Removed Pin From Net: NetName=GND Pin=JP2-5
+Removed Pin From Net: NetName=NetJP2_1 Pin=R28-2
+Removed Pin From Net: NetName=NetJP2_1 Pin=U3-51
+Removed Pin From Net: NetName=NetJP2_4 Pin=U-15
+Removed Pin From Net: NetName=NetJP2_2 Pin=U-20
+Removed Member From Class: ClassName=sche_sim7600 Member=JP2
+Added Component: Designator=JP?(JP 2x4 DT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJP2_2 Pin=JP?-1
+Added Pin To Net: NetName=NetJP2_4 Pin=JP?-2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP?-3
+Added Pin To Net: NetName=NetJP2_1 Pin=JP?-4
+Added Pin To Net: NetName=VDD Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-6
+Added Pin To Net: NetName=VDD_3V3 Pin=JP?-7
+Added Pin To Net: NetName=NetC13_2 Pin=JP?-8
+Added Pin To Net: NetName=NetJP2_2 Pin=R28-2
+Added Pin To Net: NetName=NetJP2_2 Pin=U3-51
+Added Pin To Net: NetName=NetJP2_1 Pin=U-15
+Added Pin To Net: NetName=NetJP2_4 Pin=U-20
+Change Net Name : Old Net Name=NetJP2_1 New Net Name=NetJP?_4
+Change Net Name : Old Net Name=NetJP2_2 New Net Name=NetJP?_1
+Change Net Name : Old Net Name=NetJP2_3 New Net Name=NetJP?_3
+Change Net Name : Old Net Name=NetJP2_4 New Net Name=NetJP?_2
+Added Member To Class: ClassName=sche_sim7600 Member=Component JP? JP 2x4 2.54

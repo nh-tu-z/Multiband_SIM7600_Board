@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=D?-1
+Removed Pin From Net: NetName=VBAT Pin=D?-2
+Removed Pin From Net: NetName=VBAT Pin=U?-38
+Removed Pin From Net: NetName=VBAT Pin=U?-39
+Removed Pin From Net: NetName=NetU?_62 Pin=U?-62
+Removed Pin From Net: NetName=NetU?_62 Pin=U?-63
+Removed Member From Class: ClassName=sche_sim7600 Member=D?
+Added Component: Designator=D1(DIODE ZENNER SMD SOD80)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002881"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode Zener 1/2W 5.1V SMD1206 ZMM5.1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=VBAT Pin=D1-2
+Added Pin To Net: NetName=NetU?_62 Pin=U?-38
+Added Pin To Net: NetName=NetU?_62 Pin=U?-39
+Added Pin To Net: NetName=VBAT Pin=U?-62
+Added Pin To Net: NetName=VBAT Pin=U?-63
+Change Net Name : Old Net Name=NetU?_62 New Net Name=NetU?_38
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U4-9
+Added Net: Name=NetR21_1
+Added Member To Class: ClassName=sche_sim7600 Member=Component D1 5.1V
+Added Room: Name=sche_sim7600

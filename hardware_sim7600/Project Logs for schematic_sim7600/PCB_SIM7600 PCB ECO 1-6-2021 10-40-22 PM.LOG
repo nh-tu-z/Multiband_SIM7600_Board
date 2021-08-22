@@ -1,0 +1,71 @@
+Change Component Comment : Designator=C24 Old Comment=2.2µF New Comment=33pF
+Change Component Comment : Designator=C25 Old Comment=2.2µF New Comment=33pF
+Change Component Comment : Designator=C26 Old Comment=2.2µF New Comment=33pF
+Change Component Comment : Designator=C27 Old Comment=2.2µF New Comment=100nF
+Change Component Comment : Designator=R25 Old Comment=680k New Comment=0R
+Change Component Comment : Designator=R28 Old Comment=680k New Comment=4.7k
+Change Component Comment : Designator=R29 Old Comment=680k New Comment=4.7k
+Change Component Comment : Designator=R35 Old Comment=680k New Comment=4.7k
+Change Component Comment : Designator=R10 Old Comment=680k New Comment=22R
+Change Component Comment : Designator=R11 Old Comment=680k New Comment=22R
+Change Component Comment : Designator=R12 Old Comment=680k New Comment=22R
+Change Component Comment : Designator=R27 Old Comment=680k New Comment=47k
+Change Component Comment : Designator=R30 Old Comment=680k New Comment=47k
+Change Component Comment : Designator=R36 Old Comment=680k New Comment=47k
+Change Component Designator: OldDesignator=LED_STATUS? NewDesignator=LED_Light
+Added Component: Designator=C34(tu 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004570"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 22pF 50V 10%"; VariantName = "[No Variations]"
+Added Component: Designator=C35(tu 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004570"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 22pF 50V 10%"; VariantName = "[No Variations]"
+Added Component: Designator=C37(SMD-0402C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Acoustic Noise Reduction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/ZRB157R61E225KE11-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-10982-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Interposer Termination"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ZRB157R61E225KE11D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "32140"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ZRB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.033" (0.85mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MAIN_ANT Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=RESET Pin=C37-2
+Change Net Name : Old Net Name=NetLED_STATUS?_2 New Net Name=NetLED_Light_2
+Added Member To Class: ClassName=sche_sim7600 Member=Component C34 NC
+Added Member To Class: ClassName=sche_sim7600 Member=Component C35 NC
+Added Member To Class: ClassName=sche_sim7600 Member=Component C37 100nF

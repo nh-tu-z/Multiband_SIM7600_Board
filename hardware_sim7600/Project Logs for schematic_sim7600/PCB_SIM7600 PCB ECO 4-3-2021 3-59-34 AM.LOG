@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J?-C1
+Removed Pin From Net: NetName=NetD_3 Pin=J?-C3
+Removed Pin From Net: NetName=NetD_5 Pin=J?-C5
+Removed Pin From Net: NetName=NetD_4 Pin=J?-C6
+Removed Pin From Net: NetName=NetC27_2 Pin=J?-C7
+Removed Member From Class: ClassName=sche_sim7600 Member=J?
+Added Component: Designator=J(MOLEX_78646-3001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "78646-3001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/78646-3001/Molex/view-part/75189/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC27_2 Pin=J-C1
+Added Pin To Net: NetName=NetD_4 Pin=J-C2
+Added Pin To Net: NetName=NetD_5 Pin=J-C3
+Added Pin To Net: NetName=GND Pin=J-C5
+Added Pin To Net: NetName=NetD_3 Pin=J-C7
+Added Pin To Net: NetName=GND Pin=J-G1
+Added Pin To Net: NetName=GND Pin=J-G2
+Added Pin To Net: NetName=GND Pin=J-G3
+Added Pin To Net: NetName=GND Pin=J-G4
+Added Pin To Net: NetName=GND Pin=J-G5
+Added Pin To Net: NetName=GND Pin=J-G6
+Added Member To Class: ClassName=sche_sim7600 Member=Component J 78646-3001

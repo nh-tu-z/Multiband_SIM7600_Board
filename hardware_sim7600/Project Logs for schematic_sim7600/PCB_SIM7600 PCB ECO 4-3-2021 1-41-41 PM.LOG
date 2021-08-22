@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VDD Pin=JP?-6
+Removed Pin From Net: NetName=GND Pin=JP?-7
+Change Component Footprint: Designator=JP? Old Footprint=JP 1x7 CT New Footprint=JP 2x5 DT
+Change Component Comment : Designator=R16 Old Comment=100k New Comment=47k
+Change Component Comment : Designator=R17 Old Comment=100k New Comment=47k
+Change Component Comment : Designator=JP? Old Comment=JP 1x7 2.54 New Comment=JP 2x5 2.54
+Change component parameters: Designator = "JP?"; Footprint = "JP 2x5 DT"; UniqueID = "\LKJPOHEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH002686"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Ð?c 2.54MM 2x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP?-6
+Added Pin To Net: NetName=VDD Pin=JP?-7
+Added Pin To Net: NetName=NetJP?_8 Pin=JP?-8
+Added Pin To Net: NetName=NetJP?_8 Pin=U?-69
+Added Net: Name=NetJP?_8
+Added Pin To Net: NetName=NetJP?_9 Pin=JP?-9
+Added Pin To Net: NetName=NetJP?_9 Pin=U?-72
+Added Net: Name=NetJP?_9

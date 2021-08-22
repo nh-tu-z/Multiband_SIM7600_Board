@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=NetBJT5_3 Pin=U3-3
+Removed Pin From Net: NetName=NetBJT4_3 Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-5
+Removed Pin From Net: NetName=GND Pin=U3-10
+Removed Pin From Net: NetName=GND Pin=U3-14
+Removed Pin From Net: NetName=NetC13_2 Pin=U3-15
+Removed Pin From Net: NetName=NetC24_1 Pin=U3-17
+Removed Pin From Net: NetName=NetC26_1 Pin=U3-18
+Removed Pin From Net: NetName=NetC25_1 Pin=U3-19
+Removed Pin From Net: NetName=NetC27_2 Pin=U3-20
+Removed Pin From Net: NetName=GND Pin=U3-37
+Removed Pin From Net: NetName=VBAT Pin=U3-38
+Removed Pin From Net: NetName=VBAT Pin=U3-39
+Removed Pin From Net: NetName=GND Pin=U3-40
+Removed Pin From Net: NetName=GND Pin=U3-41
+Removed Pin From Net: NetName=GND Pin=U3-43
+Removed Pin From Net: NetName=NetR29_2 Pin=U3-49
+Removed Pin From Net: NetName=NetJP?_4 Pin=U3-51
+Removed Pin From Net: NetName=NetBJT3_3 Pin=U3-54
+Removed Pin From Net: NetName=NetR18_1 Pin=U3-55
+Removed Pin From Net: NetName=NetR19_1 Pin=U3-56
+Removed Pin From Net: NetName=GND Pin=U3-57
+Removed Pin From Net: NetName=GND Pin=U3-58
+Removed Pin From Net: NetName=GND Pin=U3-60
+Removed Pin From Net: NetName=GND Pin=U3-61
+Removed Pin From Net: NetName=GND Pin=U3-64
+Removed Pin From Net: NetName=GND Pin=U3-65
+Removed Pin From Net: NetName=GND Pin=U3-77
+Removed Pin From Net: NetName=GND Pin=U3-78
+Removed Pin From Net: NetName=GND Pin=U3-80
+Removed Pin From Net: NetName=GND Pin=U3-81
+Removed Pin From Net: NetName=NetC34_1 Pin=U3-82
+Added Component: Designator=U?(IC_SIM7600E-H)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetBJT5_3 Pin=U?-3
+Added Pin To Net: NetName=NetBJT4_3 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=NetC13_2 Pin=U?-15
+Added Pin To Net: NetName=NetC24_1 Pin=U?-17
+Added Pin To Net: NetName=NetC26_1 Pin=U?-18
+Added Pin To Net: NetName=NetC25_1 Pin=U?-19
+Added Pin To Net: NetName=NetC27_2 Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-37
+Added Pin To Net: NetName=VBAT Pin=U?-38
+Added Pin To Net: NetName=VBAT Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-40
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-43
+Added Pin To Net: NetName=NetR29_2 Pin=U?-49
+Added Pin To Net: NetName=NetJP?_4 Pin=U?-51
+Added Pin To Net: NetName=NetBJT3_3 Pin=U?-54
+Added Pin To Net: NetName=NetR18_1 Pin=U?-55
+Added Pin To Net: NetName=NetR19_1 Pin=U?-56
+Added Pin To Net: NetName=GND Pin=U?-57
+Added Pin To Net: NetName=GND Pin=U?-58
+Added Pin To Net: NetName=GND Pin=U?-60
+Added Pin To Net: NetName=GND Pin=U?-61
+Added Pin To Net: NetName=GND Pin=U?-64
+Added Pin To Net: NetName=GND Pin=U?-65
+Added Pin To Net: NetName=GND Pin=U?-77
+Added Pin To Net: NetName=GND Pin=U?-78
+Added Pin To Net: NetName=GND Pin=U?-80
+Added Pin To Net: NetName=GND Pin=U?-81
+Added Pin To Net: NetName=NetC34_1 Pin=U?-82
+Added Pin To Net: NetName=NetU?_62 Pin=U?-62
+Added Pin To Net: NetName=NetU?_62 Pin=U?-63
+Added Net: Name=NetU?_62
+Added Pin To Net: NetName=NetU_1 Pin=U-1
+Added Pin To Net: NetName=NetU_1 Pin=U?-66
+Added Net: Name=NetU_1
+Added Pin To Net: NetName=NetU_3 Pin=U-3
+Added Pin To Net: NetName=NetU_3 Pin=U?-67
+Added Net: Name=NetU_3
+Added Pin To Net: NetName=NetU_4 Pin=U-4
+Added Pin To Net: NetName=NetU_4 Pin=U?-68
+Added Net: Name=NetU_4
+Added Pin To Net: NetName=NetU_5 Pin=U-5
+Added Pin To Net: NetName=NetU_5 Pin=U?-69
+Added Net: Name=NetU_5
+Added Pin To Net: NetName=NetU_6 Pin=U-6
+Added Pin To Net: NetName=NetU_6 Pin=U?-70
+Added Net: Name=NetU_6
+Added Pin To Net: NetName=NetU_7 Pin=U-7
+Added Pin To Net: NetName=NetU_7 Pin=U?-71
+Added Net: Name=NetU_7
+Added Pin To Net: NetName=NetU_8 Pin=U-8
+Added Pin To Net: NetName=NetU_8 Pin=U?-72
+Added Net: Name=NetU_8
+Added Member To Class: ClassName=sche_sim7600 Member=Component U? SIM7600

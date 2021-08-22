@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\Downloads\data\202\lv\hardware\schematic_sim7600_ver3\PCB_SIM7600.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=47.24
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

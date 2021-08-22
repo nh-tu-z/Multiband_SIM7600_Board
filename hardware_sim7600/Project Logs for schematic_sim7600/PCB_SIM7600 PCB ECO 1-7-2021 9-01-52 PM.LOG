@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetLED_SOURCE?_1 Pin=LED_SOURCE?-1
+Removed Pin From Net: NetName=GND Pin=LED_SOURCE?-2
+Removed Pin From Net: NetName=NetLED_SOURCE?_1 Pin=R8-1
+Removed Pin From Net: NetName=VBAT Pin=R8-2
+Removed Member From Class: ClassName=sche_sim7600 Member=R8
+Added Component: Designator=R?(SMD-0402-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C243.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P17210CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/ERJ-PA2-Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-PA2J684X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.2W, 1/5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "20000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.02020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "680k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=LED_SOURCE?-1
+Added Pin To Net: NetName=NetLED_SOURCE?_1 Pin=LED_SOURCE?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetLED_SOURCE?_1 Pin=R?-2
+Change Net Name : Old Net Name=NetLED_SOURCE?_1 New Net Name=NetLED_SOURCE?_2
+Added Member To Class: ClassName=sche_sim7600 Member=Component R? 1k

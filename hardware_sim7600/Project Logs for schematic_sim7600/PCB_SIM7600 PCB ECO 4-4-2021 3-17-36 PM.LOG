@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetJP?_5 Pin=JP?-5
+Removed Pin From Net: NetName=NetJP?_3 Pin=R32-2
+Removed Pin From Net: NetName=NetJP?_4 Pin=R35-2
+Removed Pin From Net: NetName=NetJP?_8 Pin=U-14
+Removed Pin From Net: NetName=NetJP?_9 Pin=U-15
+Added Pin To Net: NetName=NetJP?_5 Pin=JP?-10
+Added Pin To Net: NetName=NetJP?_8 Pin=R32-2
+Added Pin To Net: NetName=NetJP?_9 Pin=R35-2
+Added Pin To Net: NetName=NetJP?_4 Pin=U-14
+Added Pin To Net: NetName=NetJP?_3 Pin=U-15
+Change Net Name : Old Net Name=NetJP?_5 New Net Name=NetJP?_10
+Added Room: Name=sche_sim7600

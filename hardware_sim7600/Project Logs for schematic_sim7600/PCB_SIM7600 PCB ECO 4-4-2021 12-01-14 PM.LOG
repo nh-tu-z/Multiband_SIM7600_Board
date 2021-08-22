@@ -1,0 +1,12 @@
+Added Component: Designator=J1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetC29_1 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetC35_1 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Member To Class: ClassName=sche_sim7600 Member=Component J1 IPX
+Added Member To Class: ClassName=sche_sim7600 Member=Component J2 IPX

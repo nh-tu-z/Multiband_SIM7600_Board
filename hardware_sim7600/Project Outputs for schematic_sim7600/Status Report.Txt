@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [schematic_sim7600.PrjPcb]
+   Generated File[PCB_SIM7600.TXT]
+   Generated File[PCB_SIM7600.LDP]
+   Generated File[PCB_SIM7600.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 4:16:17 PM On 5/4/2021

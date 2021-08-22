@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=NetC35_1 Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Member From Class: ClassName=sche_sim7600 Member=J2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Added Component: Designator=J1(*SAMTEC_SMA-J-P-H-RA-TH1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Local link"; Value = "http://www.tme.vn/Product.aspx?id=1087#page=pro_info"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Local Part Number"; Value = "SMA-RAM-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Link 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC35_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Change Net Name : Old Net Name=NetJP?_1 New Net Name=NetJP2_1
+Change Net Name : Old Net Name=NetJP?_2 New Net Name=NetJP2_2
+Change Net Name : Old Net Name=NetJP?_3 New Net Name=NetJP2_3
+Change Net Name : Old Net Name=NetJP?_4 New Net Name=NetJP2_4
+Added Member To Class: ClassName=sche_sim7600 Member=Component J1 SMA

@@ -1,0 +1,53 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~schematic_sim7600.PrjPcb|ReportField=ProjectFullPath~C:\Users\hoait\Desktop\schematic_sim7600\schematic_sim7600.PrjPcb|ReportField=Title~Bill of Materials For Project [schematic_sim7600.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~94|ReportField=ReportTime~12:09:21 AM|ReportField=ReportDate~1/23/2021|ReportField=ReportDateTime~1/23/2021 12:09:21 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~1/23/2021|ReportField=CurrentTime~12:06:59 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\hoait\Desktop\schematic_sim7600\sche_sim7600.SchDoc|ReportField=DocumentName~sche_sim7600.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1/8/2021|ReportField=Organization~|ReportField=ProjectName~schematic_sim7600.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~schematic_sim7600.PrjPcb|ReportField=DataSourceFullPath~C:\Users\hoait\Desktop\schematic_sim7600\schematic_sim7600.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|2SC3052||BJT2, BJT3, BJT4, BJT5, BJT?|SOT23-3|2SC3052|5
+2|100uF|Dán|C1, C2, C11, C12, C19|tu 0603|Tu 0603 103 50V 10%|5
+3|10uF|CAP CER 2.2UF 25V X5R 0402|C3, C32|SMD-0402C|ZRB157R61E225KE11D|2
+4|1uF|CAP CER 2.2UF 25V X5R 0402|C4, C6, C21|SMD-0402C|ZRB157R61E225KE11D|3
+5|22nF|CAP CER 2.2UF 25V X5R 0402|C5|SMD-0402C|ZRB157R61E225KE11D|1
+6|100nF|CAP CER 2.2UF 25V X5R 0402|C7, C13, C14, C27, C31, C36, C37, C38|SMD-0402C|ZRB157R61E225KE11D|8
+7|0.1uF|CAP CER 2.2UF 25V X5R 0402|C8, C22|SMD-0402C|ZRB157R61E225KE11D|2
+8|10nF|CAP CER 2.2UF 25V X5R 0402|C9|SMD-0402C|ZRB157R61E225KE11D|1
+9|3.3nF|CAP CER 2.2UF 25V X5R 0402|C10|SMD-0402C|ZRB157R61E225KE11D|1
+10|100uF|CAP CER 2.2UF 25V X5R 0402|C18|SMD-0402C|ZRB157R61E225KE11D|1
+11|1uF|Dán|C20|tu 0603|Tu 0603 103 50V 10%|1
+12|4.7uF|CAP CER 2.2UF 25V X5R 0402|C23|SMD-0402C|ZRB157R61E225KE11D|1
+13|33pF|CAP CER 2.2UF 25V X5R 0402|C24, C25, C26, C29|SMD-0402C|ZRB157R61E225KE11D|4
+14|22pF|CAP CER 2.2UF 25V X5R 0402|C28|SMD-0402C|ZRB157R61E225KE11D|1
+15|2.2µF|CAP CER 2.2UF 25V X5R 0402|C30|SMD-0402C|ZRB157R61E225KE11D|1
+16|22uF|CAP CER 2.2UF 25V X5R 0402|C33|SMD-0402C|ZRB157R61E225KE11D|1
+17|NC|Dán|C34, C35|tu 0603|Tu 0603 22pF 50V 10%|2
+18|SMF05C|12.5V Clamp 8A _8/20Âµs_ Ipp Tvs Diode Surface Mount SC-88/SC70-6/SOT-363|D|SC70-6|SMF05C|1
+19|5.1V|Dán|D1|DIODE ZENNER SMD SOD80|Diode Zener 5.1V|1
+20|IPX||J1, J2|PCBComponent_1|IPX|2
+21|Conn_Amphenol_C707-10M006-500-2_eec|CONN SIM/SAM CARD HINGED TYPE|J?|Amphenol_C707-10M006-500-2_0|Conn_Amphenol_C707-10M006-500-2_eec|1
+22|JP 2x3 2.54|Cắm|JP1|JP 2x3 DT|JP 2x3 2.54 Duc Thang|1
+23|JP 1x3 2.54|Cắm|JP3|JP 1x3 DT|JP 1x3 2.54 Duc Thang|1
+24|JP 1x7 2.54|Cắm|JP?|JP 1x7 CT|JP 1x7 2.54 Cai Thang|1
+25|10uH|SMD Inductor 10uH-20%-5A|L|INDC6060X300|CSAB0630-100M|1
+26|47nH|FIXED IND 47NH 110MA 2.9 OHM SMD|L2|INDC0603X33N|MLG0603P47NHT000|1
+27|LED 0805|Dán|LED_Light, LED_SOURCE?, LED_Status|LED-0805-Green|LED 0805 Xanh La|3
+28|Nut Nhan 2 Chan SMD 3x6x2.5|Nut Nhan 2 Chan SMD 3x6x2.5|PWRKEY, RST_BUTTON|Nut Nhan 2 Chan SMD 3x6x2.5|Nut Nhan 2 Chan SMD 3x6x2.5|2
+29|1k|RES SMD 680K OHM 5% 1/5W 0402|R8|SMD-0402-RES|ERJ-PA2J684X|1
+30|100k|RES SMD 680K OHM 5% 1/5W 0402|R9|SMD-0402-RES|ERJ-PA2J684X|1
+31|22R|RES SMD 680K OHM 5% 1/5W 0402|R10, R11, R12|SMD-0402-RES|ERJ-PA2J684X|3
+32|680k|RES SMD 680K OHM 5% 1/5W 0402|R13|SMD-0402-RES|ERJ-PA2J684X|1
+33|12k|RES SMD 680K OHM 5% 1/5W 0402|R14|SMD-0402-RES|ERJ-PA2J684X|1
+34|3.3k|RES SMD 680K OHM 5% 1/5W 0402|R15|SMD-0402-RES|ERJ-PA2J684X|1
+35|47k|RES SMD 680K OHM 5% 1/5W 0402|R16, R17, R27, R30, R33, R36, R38|SMD-0402-RES|ERJ-PA2J684X|7
+36|2.2k|RES SMD 680K OHM 5% 1/5W 0402|R18, R19|SMD-0402-RES|ERJ-PA2J684X|2
+37|10R|RES SMD 680K OHM 5% 1/5W 0402|R20|SMD-0402-RES|ERJ-PA2J684X|1
+38|4.7k|RES SMD 680K OHM 5% 1/5W 0402|R21, R28, R29, R32, R34, R35|SMD-0402-RES|ERJ-PA2J684X|6
+39|10k|RES SMD 680K OHM 5% 1/5W 0402|R22|SMD-0402-RES|ERJ-PA2J684X|1
+40|124R|RES SMD 680K OHM 5% 1/5W 0402|R23|SMD-0402-RES|ERJ-PA2J684X|1
+41|175R|RES SMD 680K OHM 5% 1/5W 0402|R24|SMD-0402-RES|ERJ-PA2J684X|1
+42|0R|RES SMD 680K OHM 5% 1/5W 0402|R25|SMD-0402-RES|ERJ-PA2J684X|1
+43|100R|RES SMD 680K OHM 5% 1/5W 0402|R26, R31|SMD-0402-RES|ERJ-PA2J684X|2
+44|4.7|RES SMD 680K OHM 5% 1/5W 0402|R37|SMD-0402-RES|ERJ-PA2J684X|1
+45|SDSocket|SDSocket|SDSocket|SD Card-09DA13|SDSocket|1
+46|TXB0108PWR|8-Bit Bidirectional Voltage-Level Shifter with Auto Direction Sensing and +/-15-kV ESD Protect 20-TSSOP -40 to 85|U|SOP65P640X120-20N|TXB0108PWR|1
+47|MP1482|Buck Switching Regulator IC Positive Adjustable 0.923V 1 Output 2A 8-SOIC _0.154, 3.90mm Width_|U1|SOIC8|MP1482|1
+48|RT9193-33GB|Linear Voltage Regulator IC 1 Output 300mA SOT-23-5|U2|SOT94P279X129-5N|RT9193-33GB|1
+49|AMS1117-3.3|Sot223/Pkg 1-Amp 3.3-Volt Low Drop Out Voltage Regulatator|U3|SOT229P700X180-4N|AMS1117-3.3|1
+50|CP2102||U4|QFN28G_0.5-5X5MM|CP2102|1
+51|SIM7600||U?|IC_SIM7600E-H|SIM7600|1
+52|USB Mini 5p SMD|USB Type B|USB?|USB Mini 5p SMD|USB Mini 5p SMD|1

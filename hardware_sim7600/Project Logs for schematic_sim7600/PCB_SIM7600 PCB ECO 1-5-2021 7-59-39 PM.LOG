@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC15_1 Pin=C15-1
+Removed Pin From Net: NetName=NetC15_1 Pin=C16-2
+Removed Pin From Net: NetName=NetC15_1 Pin=C17-2
+Removed Pin From Net: NetName=NetC15_1 Pin=U?-61
+Removed Pin From Net: NetName=NetC15_1 Pin=U?-64
+Removed Member From Class: ClassName=sche_sim7600 Member=C15
+Removed Member From Class: ClassName=sche_sim7600 Member=C16
+Removed Member From Class: ClassName=sche_sim7600 Member=C17
+Added Pin To Net: NetName=GND Pin=U?-61
+Added Pin To Net: NetName=NetC15_1 Pin=U?-62
+Added Pin To Net: NetName=NetC15_1 Pin=U?-63
+Added Pin To Net: NetName=GND Pin=U?-64
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetU?_62
+Added Room: Name=sche_sim7600

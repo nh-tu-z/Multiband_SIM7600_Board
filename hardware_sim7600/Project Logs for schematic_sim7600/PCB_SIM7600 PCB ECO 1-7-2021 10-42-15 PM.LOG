@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-57
+Added Pin To Net: NetName=GND Pin=U?-58
+Added Pin To Net: NetName=GND Pin=U?-60
+Added Pin To Net: NetName=GND Pin=U?-77
+Added Pin To Net: NetName=GND Pin=U?-78
+Added Pin To Net: NetName=GND Pin=U?-80
+Added Member To Class: ClassName=sche_sim7600 Member=Component J2 IPX
+Added Room: Name=sche_sim7600

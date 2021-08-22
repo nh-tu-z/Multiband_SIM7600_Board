@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=VDD_3V0 Pin=C33-2
+Added Component: Designator=C33(tu 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004567"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0603 103-10nF 10% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_3V0 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Member To Class: ClassName=sche_sim7600 Member=Component C18 100uF
+Added Room: Name=sche_sim7600
